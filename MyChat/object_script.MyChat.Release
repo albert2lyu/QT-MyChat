@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\logonscreen.o
+./release\chatwindow.o
+./release\userwidget.o
+./release\qrc_pic.o
+./release\moc_mainwindow.o
+./release\moc_logonscreen.o
+./release\moc_chatwindow.o
+./release\moc_userwidget.o
+);

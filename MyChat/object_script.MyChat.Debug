@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\logonscreen.o
+./debug\chatwindow.o
+./debug\userwidget.o
+./debug\qrc_pic.o
+./debug\moc_mainwindow.o
+./debug\moc_logonscreen.o
+./debug\moc_chatwindow.o
+./debug\moc_userwidget.o
+);
